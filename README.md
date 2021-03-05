@@ -1,2 +1,2 @@
 # autonomous-python
-autonomous python project with pip
+autonomous python project without pip or external library
